@@ -1,5 +1,7 @@
 # vue-ex-gallary-ulbi
 
+practicing vue.js using vuex and vuetify
+
 ## Project setup
 ```
 npm install
