@@ -1,6 +1,6 @@
 # vue-ex-gallary-ulbi
 
-practicing vue.js using vuex and vuetify
+practicing vue.js(v2) using vuex(state management) and vuetify(for styles and components)
 
 ## Project setup
 ```
